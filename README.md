@@ -1,2 +1,2 @@
 # testegit
-Repositorio feito para testar os comandos git
+Criei esse repositório para testas os comandos git
